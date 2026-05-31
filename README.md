@@ -61,7 +61,7 @@ The study focuses on:
 
 ### Mach Contour - Mach 1
 
-![Mach Contour](images/mach-countour.png)
+![Mach Contour](https://github.com/Carebakikraken/Hypersonic-Airfoil-CFD-Investigation/blob/main/images/mach%20contour.png)
 
 ### Pressure Distribution
 Upload pressure contour here later.
