@@ -67,7 +67,7 @@ The study focuses on:
 ![pressure Countor](https://github.com/Carebakikraken/Hypersonic-Airfoil-CFD-Investigation/blob/main/images/Pressure%20contour.png)
 
 ### Solver Convergence
-Upload convergence graph here later.
+![Residuals](https://github.com/Carebakikraken/Hypersonic-Airfoil-CFD-Investigation/blob/main/images/Residual.png)
 
 ---
 
