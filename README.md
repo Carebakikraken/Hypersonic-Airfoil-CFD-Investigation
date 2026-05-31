@@ -57,7 +57,7 @@ The study focuses on:
 ## Simulation Results
 
 ### Mesh Validation
-Upload mesh image here later.
+![Mesh](images/mach-contour-m6.png)
 
 ### Mach Contour - Mach 1
 
