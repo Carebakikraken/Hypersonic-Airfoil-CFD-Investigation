@@ -61,7 +61,7 @@ The study focuses on:
 
 ### Mach Contour - Mach 1
 
-![Mach Contour](images/mach-contour.png)
+![Mach Contour](images/mach contour.png)
 
 ### Pressure Distribution
 Upload pressure contour here later.
