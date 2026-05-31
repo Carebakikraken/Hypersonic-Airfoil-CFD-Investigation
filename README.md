@@ -59,7 +59,7 @@ The study focuses on:
 ### Mesh Validation
 Upload mesh image here later.
 
-### Mach Contour - Mach 6
+### Mach Contour - Mach 1
 
 ![Mach Contour](images/mach-contour-m6.png)
 
