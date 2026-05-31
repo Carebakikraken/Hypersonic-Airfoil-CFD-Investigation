@@ -64,7 +64,7 @@ The study focuses on:
 ![Mach Contour](https://github.com/Carebakikraken/Hypersonic-Airfoil-CFD-Investigation/blob/main/images/mach%20contour.png)
 
 ### Pressure Distribution
-Upload pressure contour here later.
+![pressure Countor](https://github.com/Carebakikraken/Hypersonic-Airfoil-CFD-Investigation/blob/main/images/Pressure%20contour.png)
 
 ### Solver Convergence
 Upload convergence graph here later.
