@@ -60,7 +60,8 @@ The study focuses on:
 Upload mesh image here later.
 
 ### Mach Contour - Mach 6
-Upload contour image here later.
+
+![Mach Contour](images/mach-contour-m6.png)
 
 ### Pressure Distribution
 Upload pressure contour here later.
